@@ -1,0 +1,7 @@
+pynput
+sounddevice
+numpy
+pyperclip
+whisper
+silero_vad
+librosa
